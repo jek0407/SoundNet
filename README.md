@@ -1,5 +1,5 @@
 # Instructions
-WE will perform a video classification task using **audio-only features**. We will use **sklearn**, **pytorch**.
+We will perform a video classification task using **audio-only features**. We will use **sklearn**, **pytorch**.
 
 ## Environment Settings
 Suggest using [conda](https://docs.conda.io/en/latest/) to manage your packages. You can quickly check or install the required packages from `environment.yaml`.
